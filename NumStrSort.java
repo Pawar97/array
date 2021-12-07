@@ -8,13 +8,13 @@ public static void main(String[] args){
             1456, 2165, 1457, 2456};
             
     String[] my_array2 = {
-            "Java",
+            "Vinod",
 			
-            "Python",
-            "PHP",
-            "C#",
-            "C Programming",
-            "C++"
+            "sahadev",
+            "Vicky",
+            "Vivek",
+            "rushikesh",
+            "parshya"
         };        
     System.out.println("Original numeric array : "+Arrays.toString(my_array1));
     Arrays.sort(my_array1);
