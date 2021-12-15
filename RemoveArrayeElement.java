@@ -1,8 +1,4 @@
- 
-
-
-
-import java.util.Arrays; 
+ import java.util.Arrays; 
 public class RemoveArrayElement{
  
 public static void main(String[] args) {
@@ -20,4 +16,8 @@ public static void main(String[] args) {
     System.out.println("After removing the second element: "+Arrays.toString(my_array));
  }
  }
+
+
+
+
 
